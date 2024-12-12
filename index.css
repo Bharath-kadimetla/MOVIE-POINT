@@ -1,0 +1,1121 @@
+.home1{
+	text-decoration: none;
+}
+.dd1{
+	position: fixed;
+	width: 100%;
+	display: inline-flex;
+	height: 52px;
+	box-shadow: 0px 3px 15px 10px black;
+}
+.d1{
+	
+
+	display: inline-flex;
+	
+}
+.d2{
+
+	
+	display: inline-flex;
+	text-align: right;
+	font-size: 37px;
+	font-style: bold;
+	justify-content: center;
+	
+
+}
+@media (max-width: 1200px) {
+  .d2 {
+    font-size: 37px; /* Smaller font size for medium screens */
+  }
+}
+
+
+@media (max-width: 768px) {
+  .d2 {
+    font-size: 37px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 576px) {
+  .d2 {
+    font-size: 36px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 571px) {
+  .d2 {
+    font-size: 37px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 563px) {
+  .d2 {
+    font-size: 36.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 545px) {
+  .d2 {
+    font-size: 36px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 528px) {
+  .d2 {
+    font-size: 35px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 519px) {
+  .d2 {
+    font-size: 34.8px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 517px) {
+  .d2 {
+    font-size: 34.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 514px) {
+  .d2 {
+    font-size: 34px; /* Even smaller font size for small screens (phones) */
+  }
+}  
+@media (max-width: 512px) {
+  .d2 {
+    font-size: 34px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 510px) {
+  .d2 {
+    font-size: 33.4px; /* Even smaller font size for small screens (phones) */
+  }
+}  
+@media (max-width: 506px) {
+  .d2 {
+    font-size: 33.2px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 502px) {
+  .d2 {
+    font-size: 32px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+ 
+@media (max-width: 494px) {
+  .d2 {
+    font-size: 31.9px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 492px) {
+  .d2 {
+    font-size: 31px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 483px) {
+  .d2 {
+    font-size: 29px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 480px) {
+  .d2 {
+    font-size: 29px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 477px) {
+  .d2 {
+    font-size: 28px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 475px) {
+  .d2 {
+    font-size: 27px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 471px) {
+  .d2 {
+    font-size: 26.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 469px) {
+  .d2 {
+    font-size: 25.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 466px) {
+  .d2 {
+    font-size: 25.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 463px) {
+  .d2 {
+    font-size: 25.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 460px) {
+  .d2 {
+    font-size: 24.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 457px) {
+  .d2 {
+    font-size: 24.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 454px) {
+  .d2 {
+    font-size: 24.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 451px) {
+  .d2 {
+    font-size: 23.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 449px) {
+  .d2 {
+    font-size: 23.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 445px) {
+  .d2 {
+    font-size: 23.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 443px) {
+  .d2 {
+    font-size: 22.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 440px) {
+  .d2 {
+    font-size: 22.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 437px) {
+  .d2 {
+    font-size: 22.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 434px) {
+  .d2 {
+    font-size: 21.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 431px) {
+  .d2 {
+    font-size: 26.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 428px) {
+  .d2 {
+    font-size: 26.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 425px) {
+  .d2 {
+    font-size: 25.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 423px) {
+  .d2 {
+    font-size: 25.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 419px) {
+  .d2 {
+    font-size: 25.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 417px) {
+  .d2 {
+    font-size: 24.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 417px) {
+  .d2 {
+    font-size: 24.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 411px) {
+  .d2 {
+    font-size: 24.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 408px) {
+  .d2 {
+    font-size: 23.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 405px) {
+  .d2 {
+    font-size: 23.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 402px) {
+  .d2 {
+    font-size: 23.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 399px) {
+  .d2 {
+    font-size: 22.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 397px) {
+  .d2 {
+    font-size: 22.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 393px) {
+  .d2 {
+    font-size: 21.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 388px) {
+  .d2 {
+    font-size: 21.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 386px) {
+  .d2 {
+    font-size: 21.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 382px) {
+  .d2 {
+    font-size: 21px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 380px) {
+  .d2 {
+    font-size: 20.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 379px) {
+  .d2 {
+    font-size: 20.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 376px) {
+  .d2 {
+    font-size: 20.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 373px) {
+  .d2 {
+    font-size: 19.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 371px) {
+  .d2 {
+    font-size: 19.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 369px) {
+  .d2 {
+    font-size: 19.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 365px) {
+  .d2 {
+    font-size: 18.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 362px) {
+  .d2 {
+    font-size: 18.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 359px) {
+  .d2 {
+    font-size: 18.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 356px) {
+  .d2 {
+    font-size: 17.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 353px) {
+  .d2 {
+    font-size: 17.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 350px) {
+  .d2 {
+    font-size: 17.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 347px) {
+  .d2 {
+    font-size: 16.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 345px) {
+  .d2 {
+    font-size: 16.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 341px) {
+  .d2 {
+    font-size: 16.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 339px) {
+  .d2 {
+    font-size: 15.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 336px) {
+  .d2 {
+    font-size: 15.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 333px) {
+  .d2 {
+    font-size: 15.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 330px) {
+  .d2 {
+    font-size: 14.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 327px) {
+  .d2 {
+    font-size: 14.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 324px) {
+  .d2 {
+    font-size: 14.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 322px) {
+  .d2 {
+    font-size: 13.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+  @media (max-width: 319px) {
+  .d2 {
+    font-size: 13.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 315px) {
+  .d2 {
+    font-size: 13.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 312px) {
+  .d2 {
+    font-size: 12.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 310px) {
+  .d2 {
+    font-size: 12.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+
+@media (max-width: 306px) {
+  .d2 {
+    font-size: 12.2px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 279px) {
+  .d2 {
+    font-size: 11.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 302px) {
+  .d2 {
+    font-size: 11.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 297px) {
+  .d2 {
+    font-size: 10.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 295px) {
+  .d2 {
+    font-size: 10.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 292px) {
+  .d2 {
+    font-size: 10px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 289px) {
+  .d2 {
+    font-size: 9.9px; /* Even smaller font size for small screens (phones) */
+  }
+}
+
+
+
+
+
+.hh1{
+	font-family: "Audiowide", sans-serif;
+	margin-top: 4px;
+	color: black;
+	text-shadow: 0px 0px 10px white;
+}
+.hh1:hover{
+	text-shadow: 0px 0px 4px white;
+}
+.int1{
+  outline: none;
+	background-color: black;
+	box-shadow: 0px 0px 3px 1px greenyellow;
+	color: greenyellow;
+	border: none;
+	border-radius: 25px 0px 0px 0px;
+}
+.int1:hover{
+  outline: none;
+  background-color: black;
+  box-shadow: 0px 0px 4px 2px red;
+  color: greenyellow;
+  border: none;
+  border-radius: 25px 0px 0px 0px;
+}
+
+#btn0{
+  border: none;
+	border-radius: 0px 0px 25px 0px;
+	box-shadow: 0px 0px 1px 1px red;
+	margin-top: -4.4px;
+	margin-left: -2.6px;
+	background-color: red;
+}
+#btn0:active{
+  border: none;
+  border-radius: 0px 0px 25px 0px;
+  box-shadow: 0px 0px 1px 2px greenyellow;
+  margin-top: -4.4px;
+  margin-left: -2.6px;
+  background-color: greenyellow;
+}
+#b1{
+	box-shadow: 0px 0px 2px 1px greenyellow;
+	color: greenyellow;
+	font-size:15px;
+	
+	background-color: black;
+	
+}
+#b1:active{
+	background-color: greenyellow;
+	color: black;
+
+}
+
+
+
+
+#ii1{
+
+	color: black;
+	text-shadow:0px 0px 5px white;
+}
+#ii1:hover{
+	color: black;
+	text-shadow:0px 0px 8px white;
+}
+
+.pp1{
+	
+	color: greenyellow;
+	font-family: "Audiowide", sans-serif;
+	text-shadow:0px 0px 5px greenyellow;
+}
+ .pp1:hover{
+ 	
+	text-shadow:0px 0px 10px greenyellow;
+}
+
+
+@media (max-width: 445px) {
+  .pp1 {
+    margin-top: 2px; /* other attributies like alert in javascrip */
+  }
+}  
+
+@media (max-width: 441px) {
+  .pp1 {
+    margin-top: 2px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 438px) {
+  .pp1 {
+    margin-top: 2px; /* Even smaller margin for small screens (phones) */
+  }
+}
+
+@media (max-width: 435px) {
+  .pp1 {
+    margin-top: 2px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 431px) {
+  .pp1 {
+    margin-top: 3px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 427px) {
+  .pp1 {
+    margin-top: 3px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 423px) {
+  .pp1 {
+    margin-top: 3px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 420px) {
+  .pp1 {
+    margin-top: 3px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 416px) {
+  .pp1 {
+    margin-top: 3px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 413px) {
+  .pp1 {
+    margin-top: 3px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 409px) {
+  .pp1 {
+    margin-top: 3px; /* Even smaller margin for small screens (phones) */
+  }
+}
+
+@media (max-width: 405px) {
+  .pp1 {
+    margin-top: 3px; /* Even smaller margin for small screens (phones) */
+  }
+}  
+
+@media (max-width: 401px) {
+  .pp1 {
+    margin-top: 3.5px; /* Even smaller margin for small screens (phones) */
+  }
+}
+
+@media (max-width: 398px) {
+  .pp1 {
+    margin-top: 3.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 395px) {
+  .pp1 {
+    margin-top: 5px; /* Even smaller margin for small screens (phones) */
+  }
+}  
+
+@media (max-width: 391px) {
+  .pp1 {
+    margin-top: 4px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 386px) {
+  .pp1 {
+    margin-top: 4.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 383px) {
+  .pp1 {
+    margin-top: 5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 380px) {
+  .pp1 {
+    margin-top: 5.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 376px) {
+  .pp1 {
+    margin-top: 6px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 373px) {
+  .pp1 {
+    margin-top: 6.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 369px) {
+  .pp1 {
+    margin-top: 7.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 365px) {
+  .pp1 {
+    margin-top: 8px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 361px) {
+  .pp1 {
+    margin-top: 8.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 358px) {
+  .pp1 {
+    margin-top: 9px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 355px) {
+  .pp1 {
+    margin-top: 9.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 351px) {
+  .pp1 {
+    margin-top: 10px; /* Even smaller margin for small screens (phones) */
+  }
+}
+
+@media (max-width: 347px) {
+  .pp1 {
+    margin-top: 10.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 344px) {
+  .pp1 {
+    margin-top: 11px; /* Even smaller margin for small screens (phones) */
+  }
+}  
+
+@media (max-width: 340px) {
+  .pp1 {
+    margin-top: 11.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 336px) {
+  .pp1 {
+    margin-top: 12px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 333px) {
+  .pp1 {
+    margin-top:12.5 px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 329px) {
+  .pp1 {
+    margin-top: 13px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 325px) {
+  .pp1 {
+    margin-top: 13.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 321px) {
+  .pp1 {
+    margin-top: 14px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 318px) {
+  .pp1 {
+    margin-top: 14.5px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 315px) {
+  .pp1 {
+    margin-top: 15px; /* Even smaller margin for small screens (phones) */
+  }
+}
+
+@media (max-width: 311px) {
+  .pp1 {
+    margin-top: 16px; /* Even smaller margin for small screens (phones) */
+  }
+}  
+
+@media (max-width: 307px) {
+  .pp1 {
+    margin-top: 17px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 303px) {
+  .pp1 {
+    margin-top: 18px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 300px) {
+  .pp1 {
+    margin-top: 19px; /* Even smaller margin for small screens (phones) */
+  }
+} 
+
+@media (max-width: 296px) {
+  .pp1 {
+    margin-top: 20px; /* Even smaller margin for small*/
+   }
+ }
+@media (max-width: 293px) {
+  .pp1 {
+    margin-top: 21px;/* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 289px) {
+  .pp1 {
+    margin-top: 22px;/* Even smaller font size for small screens (phones) */
+  }
+} 
+
+
+
+.im1{
+	width: 36px;
+	height: 36px;
+	filter: drop-shadow(0px 0px 5px rgba(144, 252, 3, 0.7));
+
+}
+.im1:hover{
+	width: 38px;
+	height: 38px;
+	filter: drop-shadow(0px 0px 10px rgba(144, 252, 3, 0.7));
+
+
+}
+.dd2{
+/* empty */
+	
+	
+}
+.im2{
+box-shadow: 0px 0px 3px 5px greenyellow;
+border-radius: 0px 0px 35px 35px;
+}
+.im2:hover{
+box-shadow: 0px 0px 3px 7px greenyellow;
+border-radius: 0px 0px 35px 35px;
+}
+
+/*movie page css*/
+
+
+
+
+.d01{
+	
+	display: inline-flex;
+	justify-content: center;
+
+
+}
+.img01{
+	border-radius: 15px;
+	box-shadow: 0px 0px 2px 2px gray;
+
+		}
+.img01:hover{
+	border-radius: 10px;
+	box-shadow: 0px 0px 5px 2px greenyellow;
+
+		}
+.button-64{
+	overflow-wrap: break-word;
+	border: 1px solid white;
+	border-radius: 10px;
+	box-shadow:0px 0px 3px 3px white;
+}
+.button-64:hover{
+	overflow-wrap: break-word;
+	border: 1px solid greenyellow;
+	border-radius: 10px;
+	box-shadow:0px 0px 5px 10px greenyellow;
+	background-color: greenyellow;
+	font-style:oblique;
+
+}
+.button-64:active{
+	overflow-wrap: break-word;
+	border: 1px solid blue;
+	border-radius: 10px;
+	box-shadow:0px 0px 5px 10px blue;
+	background-color: blue;
+	font-style:oblique;
+
+}
+@media (max-width: 768px) {
+  .button-64 {
+    font-size: 10px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 422px) {
+  .button-64{
+    font-size: 10px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 400px) {
+  .button-64 {
+    font-size: 10px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 395px) {
+  .button-64 {
+    font-size: 9.5px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 387px) {
+  .button-64 {
+    font-size: 9px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 380px) {
+  .button-64 {
+    font-size: 8px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 372px) {
+  .button-64 {
+    font-size: 8px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 365px) {
+  .button-64 {
+    font-size: 8px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 358px) {
+  .button-64 {
+    font-size: 7.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 351px) {
+  .button-64 {
+    font-size: 7.5px; /* Even smaller font size for small screens (phones) */
+  }
+}  
+@media (max-width: 343px) {
+  .button-64 {
+    font-size: 7.2px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 336px) {
+  .button-64 {
+    font-size: 7.2px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 329px) {
+  .button-64 {
+    font-size: 7px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 321px) {
+  .button-64 {
+    font-size: 7px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 314px) {
+  .button-64 {
+    font-size: 6.9px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 307px) {
+  .button-64 {
+    font-size: 6.7px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 300px) {
+  .button-64 {
+    font-size: 6.5px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 293px) {
+  .button-64 {
+    font-size: 6.2px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 285px) {
+  .button-64 {
+    font-size: 6px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 278px) {
+  .button-64 {
+    font-size: 5.7px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+ 
+.dash0{
+	background-color: gray;
+	height: 1px;
+	
+
+}
+.dash1{
+
+	background-color: greenyellow;
+	height: 1px;
+	width: 100%;
+	box-shadow: 0px 0px 5px 6px greenyellow;
+	
+}
+
+.dash{
+	background-color: greenyellow;
+	height: 3px;
+	width: 100%;
+	
+}
+
+
+	
+.p1{
+	font-family: Copperplate, Papyrus, fantasy;
+	color: white;
+}
+.p1:hover{
+	color: greenyellow;
+}
+
+@media (max-width: 768px) {
+  .p1 {
+    font-size: 10px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 422px) {
+  .p1{
+    font-size: 10px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 400px) {
+  .p1 {
+    font-size: 10px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 394px) {
+  .p1 {
+    font-size: 10px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 387px) {
+  .p1 {
+    font-size: 10px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 380px) {
+  .p1 {
+    font-size: 8px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 372px) {
+  .p1 {
+    font-size: 8px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 365px) {
+  .p1{
+    font-size: 8px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 358px) {
+  .p1 {
+    font-size: 7.5px; /* Even smaller font size for small screens (phones) */
+  }
+}
+@media (max-width: 351px) {
+  .p1 {
+    font-size: 7.5px; /* Even smaller font size for small screens (phones) */
+  }
+}  
+@media (max-width: 343px) {
+  .p1 {
+    font-size: 7.2px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 336px) {
+  .p1 {
+    font-size: 7.2px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 329px) {
+  .p1 {
+    font-size: 7px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 321px) {
+  .p1 {
+    font-size: 7px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 314px) {
+  .p1 {
+    font-size: 6.9px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 307px) {
+  .p1 {
+    font-size: 6.7px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 300px) {
+  .p1 {
+    font-size: 6.5px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 293px) {
+  .p1 {
+    font-size: 5.5px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 285px) {
+  .p1 {
+    font-size: 5px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 278px) {
+  .p1 {
+    font-size: 4.9px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+@media (max-width: 275px) {
+  .p1 {
+    font-size: 4.5px; /* Even smaller font size for small screens (phones) */
+  }
+} 
+
+.im22{
+box-shadow: 0px 0px 3px 5px greenyellow;
+border-radius: 35px 35px 0px 0px;
+}
+.im22:hover{
+box-shadow: 0px 0px 3px 7px greenyellow;
+border-radius: 35px 35px 0px 0px;
+}
